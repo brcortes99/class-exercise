@@ -9,3 +9,9 @@ p, a {
 }
 
 /* Layout */
+
+p {
+    margin-bottom: 30px;
+    font-size: 14px;
+    color:#3E3C3B;
+}
